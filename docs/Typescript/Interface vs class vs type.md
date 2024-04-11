@@ -1,6 +1,6 @@
 ---
 id: typescript-types
-title: Types: Interface vs Class vs Type in TypeScript
+title: Interface vs Class vs Type in TypeScript
 sidebar_label: Interface vs Class vs Type
 ---
 
