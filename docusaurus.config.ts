@@ -17,7 +17,7 @@ const config: Config = {
   organizationName: 'weCode-you', // Usually your GitHub org/user name.
   projectName: 'doc_we_code_you', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: 'main',
+  deploymentBranch: 'deploy',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
